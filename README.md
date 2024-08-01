@@ -1,1 +1,1 @@
-# APIShield: Django + Keycloak Basic Setup
+# APIShield: Django + Keycloak + OIDC Basic Setup
